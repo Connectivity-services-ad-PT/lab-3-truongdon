@@ -19,5 +19,8 @@
     "newman": "^6.2.1",
     "newman-reporter-htmlextra": "^1.23.1",
     "wait-on": "^7.2.0"
+  },
+  "dependencies": {
+    "touch": "^3.1.1"
   }
 }
